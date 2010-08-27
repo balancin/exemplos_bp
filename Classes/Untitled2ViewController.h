@@ -7,8 +7,7 @@
 //
 
 #import "NavegacaoController.h"
-#import <UIKit/UIKit.h>
-#import "WeatherService.h"
+#import <UIKit/UIKit.h> 
 
 @interface Untitled2ViewController : UIViewController {
 

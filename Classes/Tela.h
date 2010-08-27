@@ -13,6 +13,9 @@
 
 	IBOutlet UITextField* txtNome;
 	TesteParser* parser;
+	UIActivityIndicatorView* loaderzinho;
+	NSString* retorno;
+	UIView* fundoCinza;
 	
 }
 

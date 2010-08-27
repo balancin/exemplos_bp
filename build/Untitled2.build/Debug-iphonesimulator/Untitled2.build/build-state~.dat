@@ -1,6 +1,54 @@
 TUntitled2
 v7
-r1
+r0
+t304605893.415314
+cCheck dependencies
+cProcessInfoPlistFile /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/Info.plist Untitled2-Info.plist
+cCompileXIB /Users/fabiobalancin/Documents/iPhone/Untitled2/MainWindow.xib
+cCompileXIB /Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2ViewController.xib
+cCompileXIB /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.xib
+cCopyPlistFile /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/dici.plist dici.plist
+cCpResource build/Debug-iphonesimulator/Untitled2.app/lindsaylohan.jpg lindsaylohan.jpg
+cProcessPCH /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-cbjgirkjexfgjmdtbbzahomqrspy/Untitled2_Prefix.pch.gch Untitled2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/main.o /Users/fabiobalancin/Documents/iPhone/Untitled2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Untitled2AppDelegate.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Untitled2ViewController.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Teste.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Teste.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Tela.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/TesteParser.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Aluno.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Aluno.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/NavegacaoController.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/TabelaDelegate.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TabelaDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C68A4A90000000000000110
+t1281926313
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
 
 N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
 c000000004C68A4BA0000000000000132
@@ -11,6 +59,11 @@ N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0
 c000000004BFDFE39000000000027C7D0
 t1274936889
 s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
+c000000004486036800000000000003A8
+t1149633384
+s936
 
 N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
 c000000004BFDFE7C000000000029D5D0
@@ -32,6 +85,64 @@ c000000004C0471620000000001D47210
 t1275359586
 s30700048
 
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Aluno.h
+c000000004C76B774000000000000014C
+t1282848628
+s332
+i<Foundation/Foundation.h>
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Aluno.m
+c000000004C76B77E00000000000000C9
+t1282848638
+s201
+i"Aluno.h"
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.h
+c000000004C77B2AF0000000000000146
+t1282912943
+s326
+i<UIKit/UIKit.h>
+i"TesteParser.h"
+i"TabelaDelegate.h"
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m
+c000000004C76DCDF0000000000000D39
+t1282858207
+s3385
+i"NavegacaoController.h"
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TabelaDelegate.h
+c000000004C76DD350000000000000166
+t1282858293
+s358
+i<UIKit/UIKit.h>
+i"Tela.h"
+i"Aluno.h"
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TabelaDelegate.m
+c000000004C76DDB100000000000013C1
+t1282858417
+s5057
+i"TabelaDelegate.h"
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.h
+c000000004C76B1730000000000000193
+t1282847091
+s403
+i<UIKit/UIKit.h>
+i"TesteParser.h"
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m
+c000000004C77B24800000000000014FB
+t1282912840
+s5371
+i"Tela.h"
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.xib
+c000000004C767D4F0000000000005646
+t1282833743
+s22086
+
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Teste.h
 c000000004C7671BF00000000000000D0
 t1282830783
@@ -44,40 +155,84 @@ t1282831128
 s571
 i"Teste.h"
 
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.h
+c000000004C76B9420000000000000189
+t1282849090
+s393
+i<Foundation/Foundation.h>
+i"Aluno.h"
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m
+c000000004C76C0A20000000000000668
+t1282850978
+s1640
+i"TesteParser.h"
+
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.h
-c000000004C76706B00000000000001E2
-t1282830443
-s482
+c000000004C7679650000000000000205
+t1282832741
+s517
 i<UIKit/UIKit.h>
+i"Teste.h"
+i"Tela.h"
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m
-c000000004C76706B0000000000000A8C
-t1282830443
-s2700
+c000000004C76C3A20000000000000C23
+t1282851746
+s3107
 i"Untitled2AppDelegate.h"
 i"Untitled2ViewController.h"
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.h
-c000000004C76706B00000000000000EB
-t1282830443
-s235
+c000000004C76E166000000000000013B
+t1282859366
+s315
+i"NavegacaoController.h"
 i<UIKit/UIKit.h>
+i"WeatherService.h"
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m
-c000000004C76736100000000000005C5
-t1282831201
-s1477
+c000000004C76E1F8000000000000097B
+t1282859512
+s2427
 i"Untitled2ViewController.h"
 
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.h
+c000000004C76E15E0000000000000B1D
+t1282859358
+s2845
+i<CoreServices/CoreServices.h>
+i<Foundation/Foundation.h>
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.m
+c000000004C76E1170000000000001755
+t1282859287
+s5973
+i"WSGeneratedObj.h"
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.h
+c000000004C76E1170000000000004A1D
+t1282859287
+s18973
+i<CoreServices/CoreServices.h>
+i<Foundation/Foundation.h>
+i"WSGeneratedObj.h"
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m
+c000000004C76E1170000000000007428
+t1282859287
+s29736
+i"WeatherService.h"
+
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/MainWindow.xib
-c000000004C76706B0000000000004E41
-t1282830443
-s20033
+c000000004C7679BE0000000000004DEA
+t1282832830
+s19946
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2ViewController.xib
-c000000004C76706B0000000000001A4D
-t1282830443
-s6733
+c000000004C7679D50000000000003983
+t1282832853
+s14723
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2_Prefix.pch
 c000000004C76706B00000000000000BB
@@ -95,33 +250,65 @@ t2
 s0
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/Info.plist
-t2
-s0
+t1282913078
+s586
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/MainWindow.nib
-t2
-s0
+t1282913088
+s1127
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/PkgInfo
-t2
-s0
+t1282913078
+s8
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/Tela.nib
+t1282913090
+s1999
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/Untitled2
 t2
 s0
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/Untitled2ViewController.nib
-t2
-s0
+t1282913088
+s795
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/dici.plist
+t1282913089
+s58
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/lindsaylohan.jpg
+t1282913090
+s57215
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Aluno.o
+t1282913093
+s7900
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/NavegacaoController.o
+t1282913093
+s46704
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/TabelaDelegate.o
+t1282913093
+s47032
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Tela.o
+t1282913093
+s47272
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Teste.o
-t2
-s0
+t1282913093
+s34340
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/TesteParser.o
+t1282913093
+s14300
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Untitled2.LinkFileList
-c00000000000000000000000000000000
-t2
-s0
+c000000004C77B3360000000000000504
+t1282913078
+s1284
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Untitled2AppDelegate.o
 t2
@@ -131,9 +318,27 @@ N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iph
 t2
 s0
 
-N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/main.o
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/WSGeneratedObj.o
 t2
 s0
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/WeatherService.o
+t2
+s0
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/main.o
+t1282913092
+s6320
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/dici.plist
+c000000004C76AA4700000000000000E8
+t1282845255
+s232
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/lindsaylohan.jpg
+c000000004C76CE54000000000000DF7F
+t1282854484
+s57215
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/main.m
 c000000004C76706B0000000000000162
@@ -142,44 +347,339 @@ s354
 i<UIKit/UIKit.h>
 
 N/var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-cbjgirkjexfgjmdtbbzahomqrspy/Untitled2_Prefix.pch.gch
-t2
-s0
+t1282913092
+s15232016
+
+N/var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-cdeppxegurmofdbiifzdpuyxiihz/Untitled2_Prefix.pch.gch
+t1282832329
+s13825936
 
 NUntitled2-Info.plist
-c000000004C76706B000000000000038D
-t1282830443
-s909
+c000000004C76AA43000000000000037F
+t1282845251
+s895
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304605878#304605878#0(0"0(0#1#0"8649093952#0"0#
+
+CCompileC build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Aluno.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Aluno.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304605893.165727
+e304605893.295904
+r1
+xCompileC
+xbuild/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Aluno.o
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Aluno.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Aluno.m304605893#304605893#0(0"0(0#0#63"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Aluno.m8647757440#2112"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources/i386 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-cbjgirkjexfgjmdtbbzahomqrspy/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Aluno.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Aluno.o0#
+
+CCompileC build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/NavegacaoController.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304605893.277456
+e304605893.401199
+r1
+xCompileC
+xbuild/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/NavegacaoController.o
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m: In function '-[NavegacaoController viewDidLoad]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m:46: warning: unused variable 'retorno'
+lSLF07#2@85"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m304605893#304605893#0(246"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m: In function '-[NavegacaoController viewDidLoad]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m:46: warning: unused variable 'retorno'1(22@25"Unused variable 'retorno'304605893#129#117#0(6@77"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m304551007#46#0#46#0#19"unused variable '*'0(0#0#77"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m8648639840#2140"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources/i386 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-cbjgirkjexfgjmdtbbzahomqrspy/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/NavegacaoController.o0#
+
+CCompileC build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/TabelaDelegate.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TabelaDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304605893.296007
+e304605893.415235
+r1
+xCompileC
+xbuild/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/TabelaDelegate.o
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TabelaDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TabelaDelegate.m304605893#304605893#0(0"0(0#0#72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TabelaDelegate.m8648401504#2130"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources/i386 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-cbjgirkjexfgjmdtbbzahomqrspy/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TabelaDelegate.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/TabelaDelegate.o0#
+
+CCompileC build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Tela.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304605893.059665
+e304605893.165625
+r1
+xCompileC
+xbuild/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Tela.o
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m: In function '-[Tela viewDidLoad]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m:60: warning: unused variable 'inteiro1'
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m:53: warning: unused variable 'dicionario'
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m: In function '-[Tela pegaTexto]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m:107: warning: unused variable 'response'
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m:106: warning: unused variable 'error'
+lSLF07#2@70"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m304605893#304605893#0(609"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m: In function '-[Tela viewDidLoad]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m:60: warning: unused variable 'inteiro1'/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m:53: warning: unused variable 'dicionario'/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m: In function '-[Tela pegaTexto]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m:107: warning: unused variable 'response'/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m:106: warning: unused variable 'error'4(22@26"Unused variable 'inteiro1'304605893#99#103#0(6@62"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m304605640#60#0#60#0#19"unused variable '*'0(22@28"Unused variable 'dicionario'304605893#202#105#0(6@62"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m304605640#53#0#53#0#19"unused variable '*'0(22@26"Unused variable 'response'304605893#404#104#0(6@62"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m304605640#107#0#107#0#19"unused variable '*'0(22@23"Unused variable 'error'304605893#508#101#0(6@62"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m304605640#106#0#106#0#19"unused variable '*'0(0#0#62"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m8648860416#2110"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources/i386 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-cbjgirkjexfgjmdtbbzahomqrspy/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Tela.o0#
 
 CCompileC build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Teste.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Teste.m normal i386 objective-c com.apple.compilers.gcc.4_2
-r0
+s304605893.042099
+e304605893.145087
+r1
+xCompileC
+xbuild/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Teste.o
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Teste.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Teste.m304605893#304605893#0(0"0(0#0#63"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Teste.m8645920160#2112"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources/i386 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-cbjgirkjexfgjmdtbbzahomqrspy/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Teste.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Teste.o0#
+
+CCompileC build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/TesteParser.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304605893.145207
+e304605893.277356
+r1
+xCompileC
+xbuild/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/TesteParser.o
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m: In function '-[TesteParser initWithParser:]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m:22: warning: class 'TesteParser' does not implement the 'NSXMLParserDelegate' protocol
+lSLF07#2@77"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m304605893#304605893#0(274"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m: In function '-[TesteParser initWithParser:]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m:22: warning: class 'TesteParser' does not implement the 'NSXMLParserDelegate' protocol1(22@73"Class 'TesteParser' does not implement the 'NSXMLParserDelegate' protocol304605893#117#157#0(6@69"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m304543778#22#0#22#0#45"class '*' does not implement the '*' protocol0(0#0#69"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m8648618592#2124"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources/i386 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-cbjgirkjexfgjmdtbbzahomqrspy/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/TesteParser.o0#
 
 CCompileC build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Untitled2AppDelegate.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304605892.583379
+e304605893.042004
 r0
+xCompileC
+xbuild/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Untitled2AppDelegate.o
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m:10:
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.h:11:27: error: WeatherService.h: No such file or directory
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m: In function '-[Untitled2AppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m:29: warning: unused variable 'viewControllerTeste'
+lSLF07#2@86"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m304605892#304605893#0(537"In file included from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m:10:/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.h:11:27: error: WeatherService.h: No such file or directory/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m: In function '-[Untitled2AppDelegate application:didFinishLaunchingWithOptions:]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m:29: warning: unused variable 'viewControllerTeste'2(4@43"WeatherService.h: No such file or directory304605892#105#140#2(7@100"In file included from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m304605892#18446744073709551615#0#0(6@78"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m304544546#10#0#10#0#0"0(13@128"WeatherService.h: No such file or directory in /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.h304605892#18446744073709551615#0#0(6@81"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.h304552166#11#0#11#0#0"0(6@81"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.h304552166#11#0#11#0#28"*: No such file or directory0(22@37"Unused variable 'viewControllerTeste'304605892#407#130#0(6@78"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m304544546#29#0#29#0#19"unused variable '*'0(0#0#78"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m8648553088#2142"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources/i386 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-cbjgirkjexfgjmdtbbzahomqrspy/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Untitled2AppDelegate.o1#
 
 CCompileC build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Untitled2ViewController.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304605892.889136
+e304605893.059568
 r0
+xCompileC
+xbuild/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Untitled2ViewController.o
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:9:
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.h:11:27: error: WeatherService.h: No such file or directory
+lSLF07#2@89"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m304605892#304605893#0(247"In file included from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:9:/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.h:11:27: error: WeatherService.h: No such file or directory1(4@43"WeatherService.h: No such file or directory304605892#107#140#2(7@103"In file included from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m304605892#18446744073709551615#0#0(6@81"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m304552312#9#0#9#0#0"0(13@128"WeatherService.h: No such file or directory in /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.h304605892#18446744073709551615#0#0(6@81"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.h304552166#11#0#11#0#0"0(6@81"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.h304552166#11#0#11#0#28"*: No such file or directory0(0#0#81"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m8647821760#2148"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources/i386 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-cbjgirkjexfgjmdtbbzahomqrspy/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Untitled2ViewController.o1#
+
+CCompileC build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/WSGeneratedObj.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304552316.451677
+e304552316.756879
+r0
+xCompileC
+xbuild/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/WSGeneratedObj.o
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h:15,
+o                 from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h:37,
+o                 from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.h:15,
+o                 from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.m:12:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSMethodInvocation.h:759: error: expected declaration specifiers or '...' before 'CFXMLTreeRef'
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSMethodInvocation.h:759: error: expected declaration specifiers or '...' before 'CFXMLTreeRef'
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h:19,
+o                 from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h:37,
+o                 from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.h:15,
+o                 from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.m:12:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSProtocolHandler.h:486: error: expected declaration specifiers or '...' before 'CFXMLTreeRef'
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSProtocolHandler.h:486: error: expected declaration specifiers or '...' before 'CFXMLTreeRef'
+lSLF07#2@80"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.m304552316#304552316#0(2298"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h:15,                 from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h:37,                 from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.h:15,                 from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.m:12:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSMethodInvocation.h:759: error: expected declaration specifiers or '...' before 'CFXMLTreeRef'/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSMethodInvocation.h:759: error: expected declaration specifiers or '...' before 'CFXMLTreeRef'In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h:19,                 from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h:37,                 from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.h:15,                 from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.m:12:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSProtocolHandler.h:486: error: expected declaration specifiers or '...' before 'CFXMLTreeRef'/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSProtocolHandler.h:486: error: expected declaration specifiers or '...' before 'CFXMLTreeRef'4(4@62"Expected declaration specifiers or '...' before 'CFXMLTreeRef'304552316#602#274#5(7@94"In file included from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.m304552316#18446744073709551615#0#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.m304552087#12#0#12#0#0"0(7@94"In file included from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.h304552316#18446744073709551615#0#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.h304552158#15#0#15#0#0"0(7@177"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h304552316#18446744073709551615#0#0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h171326184#37#0#37#0#0"0(7@217"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h304552316#18446744073709551615#0#0(6@195"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h171323698#15#0#15#0#0"0(13@264"Expected declaration specifiers or '...' before 'CFXMLTreeRef' in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSMethodInvocation.h304552316#18446744073709551615#0#0(6@198"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSMethodInvocation.h171323698#759#0#759#0#0"0(6@198"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSMethodInvocation.h171323698#759#0#759#0#19"expected * before *0(4@62"Expected declaration specifiers or '...' before 'CFXMLTreeRef'304552316#876#274#5(7@94"In file included from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.m304552316#18446744073709551615#0#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.m304552087#12#0#12#0#0"0(7@94"In file included from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.h304552316#18446744073709551615#0#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.h304552158#15#0#15#0#0"0(7@177"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h304552316#18446744073709551615#0#0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h171326184#37#0#37#0#0"0(7@217"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h304552316#18446744073709551615#0#0(6@195"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h171323698#15#0#15#0#0"0(13@264"Expected declaration specifiers or '...' before 'CFXMLTreeRef' in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSMethodInvocation.h304552316#18446744073709551615#0#0(6@198"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSMethodInvocation.h171323698#759#0#759#0#0"0(6@198"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSMethodInvocation.h171323698#759#0#759#0#19"expected * before *0(4@62"Expected declaration specifiers or '...' before 'CFXMLTreeRef'304552316#1752#273#5(7@94"In file included from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.m304552316#18446744073709551615#0#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.m304552087#12#0#12#0#0"0(7@94"In file included from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.h304552316#18446744073709551615#0#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.h304552158#15#0#15#0#0"0(7@177"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h304552316#18446744073709551615#0#0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h171326184#37#0#37#0#0"0(7@217"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h304552316#18446744073709551615#0#0(6@195"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h171323698#19#0#19#0#0"0(13@263"Expected declaration specifiers or '...' before 'CFXMLTreeRef' in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSProtocolHandler.h304552316#18446744073709551615#0#0(6@197"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSProtocolHandler.h171323698#486#0#486#0#0"0(6@197"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSProtocolHandler.h171323698#486#0#486#0#19"expected * before *0(4@62"Expected declaration specifiers or '...' before 'CFXMLTreeRef'304552316#2025#273#5(7@94"In file included from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.m304552316#18446744073709551615#0#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.m304552087#12#0#12#0#0"0(7@94"In file included from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.h304552316#18446744073709551615#0#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.h304552158#15#0#15#0#0"0(7@177"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h304552316#18446744073709551615#0#0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h171326184#37#0#37#0#0"0(7@217"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h304552316#18446744073709551615#0#0(6@195"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h171323698#19#0#19#0#0"0(13@263"Expected declaration specifiers or '...' before 'CFXMLTreeRef' in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSProtocolHandler.h304552316#18446744073709551615#0#0(6@197"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSProtocolHandler.h171323698#486#0#486#0#0"0(6@197"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSProtocolHandler.h171323698#486#0#486#0#19"expected * before *0(0#0#72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.m8590228992#2130"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources/i386 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-cbjgirkjexfgjmdtbbzahomqrspy/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WSGeneratedObj.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/WSGeneratedObj.o1#
+
+CCompileC build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/WeatherService.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304552316.146566
+e304552316.568478
+r0
+xCompileC
+xbuild/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/WeatherService.o
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h:15,
+o                 from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h:37,
+o                 from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.h:11,
+o                 from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:8:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSMethodInvocation.h:759: error: expected declaration specifiers or '...' before 'CFXMLTreeRef'
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSMethodInvocation.h:759: error: expected declaration specifiers or '...' before 'CFXMLTreeRef'
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h:19,
+o                 from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h:37,
+o                 from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.h:11,
+o                 from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:8:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSProtocolHandler.h:486: error: expected declaration specifiers or '...' before 'CFXMLTreeRef'
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSProtocolHandler.h:486: error: expected declaration specifiers or '...' before 'CFXMLTreeRef'
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m: In function '-[NDFDgenByDay setParameters:in_longitude:in_startDate:in_numDays:in_format:]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:21: warning: initialization discards qualifiers from pointer target type
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:22: warning: initialization discards qualifiers from pointer target type
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:23: warning: initialization discards qualifiers from pointer target type
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m: In function '-[NDFDgen setParameters:in_longitude:in_product:in_startTime:in_endTime:in_weatherParameters:]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:65: warning: initialization discards qualifiers from pointer target type
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:68: warning: initialization discards qualifiers from pointer target type
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m: In function '-[NDFDgenByDayLatLonList setParameters:in_startDate:in_numDays:in_format:]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:110: warning: initialization discards qualifiers from pointer target type
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:111: warning: initialization discards qualifiers from pointer target type
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:112: warning: initialization discards qualifiers from pointer target type
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:113: warning: initialization discards qualifiers from pointer target type
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m: In function '-[GmlTimeSeries setParameters:in_startTime:in_endTime:in_compType:in_featureType:in_propertyName:]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:153: warning: initialization discards qualifiers from pointer target type
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:156: warning: initialization discards qualifiers from pointer target type
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:157: warning: initialization discards qualifiers from pointer target type
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m: In function '-[LatLonListCityNames setParameters:]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:200: warning: initialization discards qualifiers from pointer target type
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m: In function '-[CornerPoints setParameters:]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:371: warning: initialization discards qualifiers from pointer target type
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m: In function '-[NDFDgenLatLonList setParameters:in_product:in_startTime:in_endTime:in_weatherParameters:]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:407: warning: initialization discards qualifiers from pointer target type
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:408: warning: initialization discards qualifiers from pointer target type
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:411: warning: initialization discards qualifiers from pointer target type
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m: In function '-[LatLonListZipCode setParameters:]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:452: warning: initialization discards qualifiers from pointer target type
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m: In function '-[GmlLatLonList setParameters:in_requestedTime:in_featureType:in_weatherParameters:]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:489: warning: initialization discards qualifiers from pointer target type
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:491: warning: initialization discards qualifiers from pointer target type
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:492: warning: initialization discards qualifiers from pointer target type
+lSLF07#2@80"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552316#304552316#0(6808"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h:15,                 from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h:37,                 from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.h:11,                 from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSMethodInvocation.h:759: error: expected declaration specifiers or '...' before 'CFXMLTreeRef'/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSMethodInvocation.h:759: error: expected declaration specifiers or '...' before 'CFXMLTreeRef'In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h:19,                 from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h:37,                 from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.h:11,                 from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSProtocolHandler.h:486: error: expected declaration specifiers or '...' before 'CFXMLTreeRef'/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSProtocolHandler.h:486: error: expected declaration specifiers or '...' before 'CFXMLTreeRef'/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m: In function '-[NDFDgenByDay setParameters:in_longitude:in_startDate:in_numDays:in_format:]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:21: warning: initialization discards qualifiers from pointer target type/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:22: warning: initialization discards qualifiers from pointer target type/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:23: warning: initialization discards qualifiers from pointer target type/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m: In function '-[NDFDgen setParameters:in_longitude:in_product:in_startTime:in_endTime:in_weatherParameters:]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:65: warning: initialization discards qualifiers from pointer target type/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:68: warning: initialization discards qualifiers from pointer target type/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m: In function '-[NDFDgenByDayLatLonList setParameters:in_startDate:in_numDays:in_format:]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:110: warning: initialization discards qualifiers from pointer target type/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:111: warning: initialization discards qualifiers from pointer target type/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:112: warning: initialization discards qualifiers from pointer target type/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:113: warning: initialization discards qualifiers from pointer target type/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m: In function '-[GmlTimeSeries setParameters:in_startTime:in_endTime:in_compType:in_featureType:in_propertyName:]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:153: warning: initialization discards qualifiers from pointer target type/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:156: warning: initialization discards qualifiers from pointer target type/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:157: warning: initialization discards qualifiers from pointer target type/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m: In function '-[LatLonListCityNames setParameters:]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:200: warning: initialization discards qualifiers from pointer target type/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m: In function '-[CornerPoints setParameters:]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:371: warning: initialization discards qualifiers from pointer target type/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m: In function '-[NDFDgenLatLonList setParameters:in_product:in_startTime:in_endTime:in_weatherParameters:]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:407: warning: initialization discards qualifiers from pointer target type/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:408: warning: initialization discards qualifiers from pointer target type/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:411: warning: initialization discards qualifiers from pointer target type/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m: In function '-[LatLonListZipCode setParameters:]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:452: warning: initialization discards qualifiers from pointer target type/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m: In function '-[GmlLatLonList setParameters:in_requestedTime:in_featureType:in_weatherParameters:]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:489: warning: initialization discards qualifiers from pointer target type/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:491: warning: initialization discards qualifiers from pointer target type/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m:492: warning: initialization discards qualifiers from pointer target type25(4@62"Expected declaration specifiers or '...' before 'CFXMLTreeRef'304552316#601#274#5(7@94"In file included from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552316#18446744073709551615#0#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#8#0#8#0#0"0(7@94"In file included from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.h304552316#18446744073709551615#0#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.h304552087#11#0#11#0#0"0(7@177"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h304552316#18446744073709551615#0#0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h171326184#37#0#37#0#0"0(7@217"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h304552316#18446744073709551615#0#0(6@195"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h171323698#15#0#15#0#0"0(13@264"Expected declaration specifiers or '...' before 'CFXMLTreeRef' in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSMethodInvocation.h304552316#18446744073709551615#0#0(6@198"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSMethodInvocation.h171323698#759#0#759#0#0"0(6@198"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSMethodInvocation.h171323698#759#0#759#0#19"expected * before *0(4@62"Expected declaration specifiers or '...' before 'CFXMLTreeRef'304552316#875#274#5(7@94"In file included from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552316#18446744073709551615#0#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#8#0#8#0#0"0(7@94"In file included from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.h304552316#18446744073709551615#0#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.h304552087#11#0#11#0#0"0(7@177"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h304552316#18446744073709551615#0#0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h171326184#37#0#37#0#0"0(7@217"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h304552316#18446744073709551615#0#0(6@195"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h171323698#15#0#15#0#0"0(13@264"Expected declaration specifiers or '...' before 'CFXMLTreeRef' in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSMethodInvocation.h304552316#18446744073709551615#0#0(6@198"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSMethodInvocation.h171323698#759#0#759#0#0"0(6@198"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSMethodInvocation.h171323698#759#0#759#0#19"expected * before *0(4@62"Expected declaration specifiers or '...' before 'CFXMLTreeRef'304552316#1750#273#5(7@94"In file included from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552316#18446744073709551615#0#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#8#0#8#0#0"0(7@94"In file included from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.h304552316#18446744073709551615#0#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.h304552087#11#0#11#0#0"0(7@177"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h304552316#18446744073709551615#0#0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h171326184#37#0#37#0#0"0(7@217"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h304552316#18446744073709551615#0#0(6@195"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h171323698#19#0#19#0#0"0(13@263"Expected declaration specifiers or '...' before 'CFXMLTreeRef' in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSProtocolHandler.h304552316#18446744073709551615#0#0(6@197"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSProtocolHandler.h171323698#486#0#486#0#0"0(6@197"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSProtocolHandler.h171323698#486#0#486#0#19"expected * before *0(4@62"Expected declaration specifiers or '...' before 'CFXMLTreeRef'304552316#2023#273#5(7@94"In file included from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552316#18446744073709551615#0#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#8#0#8#0#0"0(7@94"In file included from /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.h304552316#18446744073709551615#0#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.h304552087#11#0#11#0#0"0(7@177"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h304552316#18446744073709551615#0#0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h171326184#37#0#37#0#0"0(7@217"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h304552316#18446744073709551615#0#0(6@195"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WebServicesCore.h171323698#19#0#19#0#0"0(13@263"Expected declaration specifiers or '...' before 'CFXMLTreeRef' in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSProtocolHandler.h304552316#18446744073709551615#0#0(6@197"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSProtocolHandler.h171323698#486#0#486#0#0"0(6@197"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/WebServicesCore.framework/Headers/WSProtocolHandler.h171323698#486#0#486#0#19"expected * before *0(22@59"Initialization discards qualifiers from pointer target type304552316#2463#146#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#21#0#21#0#0"0(22@59"Initialization discards qualifiers from pointer target type304552316#2609#146#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#22#0#22#0#0"0(22@59"Initialization discards qualifiers from pointer target type304552316#2755#146#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#23#0#23#0#0"0(22@59"Initialization discards qualifiers from pointer target type304552316#3085#146#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#65#0#65#0#0"0(22@59"Initialization discards qualifiers from pointer target type304552316#3231#146#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#68#0#68#0#0"0(22@59"Initialization discards qualifiers from pointer target type304552316#3541#147#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#110#0#110#0#0"0(22@59"Initialization discards qualifiers from pointer target type304552316#3688#147#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#111#0#111#0#0"0(22@59"Initialization discards qualifiers from pointer target type304552316#3835#147#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#112#0#112#0#0"0(22@59"Initialization discards qualifiers from pointer target type304552316#3982#147#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#113#0#113#0#0"0(22@59"Initialization discards qualifiers from pointer target type304552316#4317#147#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#153#0#153#0#0"0(22@59"Initialization discards qualifiers from pointer target type304552316#4464#147#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#156#0#156#0#0"0(22@59"Initialization discards qualifiers from pointer target type304552316#4611#147#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#157#0#157#0#0"0(22@59"Initialization discards qualifiers from pointer target type304552316#4885#147#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#200#0#200#0#0"0(22@59"Initialization discards qualifiers from pointer target type304552316#5152#147#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#371#0#371#0#0"0(22@59"Initialization discards qualifiers from pointer target type304552316#5480#147#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#407#0#407#0#0"0(22@59"Initialization discards qualifiers from pointer target type304552316#5627#147#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#408#0#408#0#0"0(22@59"Initialization discards qualifiers from pointer target type304552316#5774#147#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#411#0#411#0#0"0(22@59"Initialization discards qualifiers from pointer target type304552316#6046#147#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#452#0#452#0#0"0(22@59"Initialization discards qualifiers from pointer target type304552316#6367#147#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#489#0#489#0#0"0(22@59"Initialization discards qualifiers from pointer target type304552316#6514#147#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#491#0#491#0#0"0(22@59"Initialization discards qualifiers from pointer target type304552316#6661#147#0(6@72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m304552087#492#0#492#0#0"0(0#0#72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m8670656864#2130"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources/i386 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-cbjgirkjexfgjmdtbbzahomqrspy/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/WeatherService.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/WeatherService.o1#
 
 CCompileC build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/main.o /Users/fabiobalancin/Documents/iPhone/Untitled2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-r0
+s304605892.581997
+e304605892.888965
+r1
+xCompileC
+xbuild/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/main.o
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/main.m304605892#304605892#0(0"0(0#0#54"/Users/fabiobalancin/Documents/iPhone/Untitled2/main.m8648801600#2102"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources/i386 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-cbjgirkjexfgjmdtbbzahomqrspy/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/main.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.xib
+s304605889.011081
+e304605890.265511
+r1
+xCompileXIB
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@27"CompileXIB Classes/Tela.xib304605889#304605890#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#64"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.xib8647468672#657"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/Tela.nib /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
 
 CCompileXIB /Users/fabiobalancin/Documents/iPhone/Untitled2/MainWindow.xib
-r0
+s304605878.647723
+e304605889.010938
+r1
+xCompileXIB
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib304605878#304605889#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#62"/Users/fabiobalancin/Documents/iPhone/Untitled2/MainWindow.xib8647984256#661"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/MainWindow.nib /Users/fabiobalancin/Documents/iPhone/Untitled2/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
 
 CCompileXIB /Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2ViewController.xib
-r0
+s304605878.725193
+e304605889.012054
+r1
+xCompileXIB
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2ViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@38"CompileXIB Untitled2ViewController.xib304605878#304605889#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#75"/Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2ViewController.xib8647564832#687"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/Untitled2ViewController.nib /Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCopyPlistFile /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/dici.plist dici.plist
+s304605889.012114
+e304605890.013433
+r1
+xCopyPlistFile
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/dici.plist
+xdici.plist
+lSLF07#2@15"Copy dici.plist304605889#304605890#0(0"0(0#0#58"/Users/fabiobalancin/Documents/iPhone/Untitled2/dici.plist8649282880#467"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 dici.plist --outdir /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app0#
+
+CCpResource build/Debug-iphonesimulator/Untitled2.app/lindsaylohan.jpg lindsaylohan.jpg
+s304605890.013731
+e304605890.050610
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Untitled2.app/lindsaylohan.jpg
+xlindsaylohan.jpg
+lSLF07#2@21"Copy lindsaylohan.jpg304605890#304605890#0(0"0(0#0#64"/Users/fabiobalancin/Documents/iPhone/Untitled2/lindsaylohan.jpg8648883296#551"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/fabiobalancin/Documents/iPhone/Untitled2/lindsaylohan.jpg /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app0#
 
 CGenerateDSYMFile /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app.dSYM /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/Untitled2
-r0
+s304551242.732234
+e304551242.975111
+r1
+xGenerateDSYMFile
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app.dSYM
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/Untitled2
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Untitled2.app.dSYM build/Debug-iphonesimulator/Untitled2.app/Untitled2304551242#304551242#0(0"0(0#0#99"/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/Untitled28676030976#478"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/Untitled2 -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app.dSYM0#
 
 CLd /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/Untitled2 normal i386
-r0
+s304551241.995825
+e304551242.732117
+r1
+xLd
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/Untitled2
+xnormal
+xi386
+lSLF07#2@104"Link /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/Untitled2304551241#304551242#0(0"0(0#0#0"8677525216#1017"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator -filelist /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Objects-normal/i386/Untitled2.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/Untitled20#
 
 CProcessInfoPlistFile /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/Info.plist Untitled2-Info.plist
-r0
+s304605878.644451
+e304605878.647648
+r1
+xProcessInfoPlistFile
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/Info.plist
+xUntitled2-Info.plist
+lSLF07#2@28"Process Untitled2-Info.plist304605878#304605878#0(0"0(0#0#68"/Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2-Info.plist8648282144#574"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Untitled2-Info.plist -genpkginfo /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app/Info.plist0#
 
 CProcessPCH /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-cbjgirkjexfgjmdtbbzahomqrspy/Untitled2_Prefix.pch.gch Untitled2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-r0
+s304605890.265630
+e304605892.581725
+r1
+xProcessPCH
+x/var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-cbjgirkjexfgjmdtbbzahomqrspy/Untitled2_Prefix.pch.gch
+xUntitled2_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Untitled2_Prefix.pch304605890#304605892#0(0"0(0#0#68"/Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2_Prefix.pch8647949824#1983"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources/i386 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2_Prefix.pch -o /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-cbjgirkjexfgjmdtbbzahomqrspy/Untitled2_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-cdeppxegurmofdbiifzdpuyxiihz/Untitled2_Prefix.pch.gch Untitled2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304525128.184581
+e304525129.209250
+r1
+xProcessPCH
+x/var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-cdeppxegurmofdbiifzdpuyxiihz/Untitled2_Prefix.pch.gch
+xUntitled2_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Untitled2_Prefix.pch304525128#304525129#0(0"0(0#0#68"/Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2_Prefix.pch8635253984#1983"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources/i386 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphonesimulator/Untitled2.build/DerivedSources -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2_Prefix.pch -o /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-cdeppxegurmofdbiifzdpuyxiihz/Untitled2_Prefix.pch.gch0#
 
 CTouch /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app
-r0
+s304551242.975289
+e304551243.136952
+r1
+xTouch
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app
+lSLF07#2@95"Touch /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app304551242#304551243#0(0"0(0#0#0"8677124224#360"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphonesimulator/Untitled2.app0#
 

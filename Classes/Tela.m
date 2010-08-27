@@ -97,32 +97,83 @@
 	
 }
 
-- (IBAction) pegaTexto {
+- (void) abreLoader:(id)obj {
 	
-	NSURL* url = [NSURL URLWithString:@"http://192.168.20.18/~fabiobalancin/dici2.xml"];
-	NSMutableURLRequest* urlRequest = [NSMutableURLRequest requestWithURL:url];
-	[urlRequest setHTTPMethod:@"GET"];
+	if(retorno != nil){
+		NSLog(@"A A");
+		//[fundoCinza removeFromSuperview];
+		[loaderzinho stopAnimating];
+		
+		[UIView beginAnimations:nil context:NULL];
+		[UIView setAnimationDuration:1.0];
+		[fundoCinza setAlpha:0];
+		
+		[UIView commitAnimations];
+		retorno = nil;
+		
+	} else {
+		NSLog(@"%@ - %@", retorno, loaderzinho);
+		[self abreLoader:obj];
+	}
+}
+
+- (void) enviar {
+	
+	[fundoCinza setAlpha:0.6];
+	[loaderzinho startAnimating];
+	
+	NSString* userpass = @"curso_buscape:curso123";
+	NSString* tweet = txtNome.text;
+	NSString* body = [NSString stringWithFormat:@"source=Buscape&status=%@", tweet];
 	
 	NSError* error;
 	NSURLResponse* response;
-
+	
+	NSString* urlStr = [NSString stringWithFormat:@"http://%@@twitter.com/statuses/update.xml", userpass];
+	NSURL* url = [NSURL URLWithString:urlStr];
+	
+	NSMutableURLRequest* urlRequest = [NSMutableURLRequest requestWithURL:url];
+	
+	if(!urlRequest)
+		NSLog(@"Deu erro ai....");
+	
+	[urlRequest setHTTPMethod:@"POST"];
+	[urlRequest setHTTPBody:[body dataUsingEncoding:NSUTF8StringEncoding]];
+	[urlRequest setValue:@"application/x-www-form-urlencoded" forHTTPHeaderField:@"Content-Type"];
+	[urlRequest setValue:@"Buscape" forHTTPHeaderField:@"X-Twitter-Client"];
+	
+	
 	NSData* result = [NSURLConnection sendSynchronousRequest:urlRequest returningResponse:&response error:&error];
 	
-	NSString* retorno = [[NSString alloc] initWithData:result encoding:NSStringEncodingConversionAllowLossy];
+	retorno = [[NSString alloc] initWithData:result encoding:NSStringEncodingConversionAllowLossy];
+	NSLog(@"%@", retorno); 
 	
-	NSXMLParser* xmlparser = [[NSXMLParser alloc] initWithData:result];
-	parser = [[TesteParser alloc] initWithParser:xmlparser]; 
+}
+
+- (IBAction) pegaTexto {
 	
-	NSLog(@"%@", parser.alunos);
+	///////loaderzinho branco largo
 	
-	for(int i = 0; i < [parser.alunos count]; i++){
+	CGRect currentFrame = self.view.bounds;
+	loaderzinho = [[UIActivityIndicatorView alloc] initWithActivityIndicatorStyle:UIActivityIndicatorViewStyleWhiteLarge];
 	
-		Aluno* aluno = [parser.alunos objectAtIndex:i];
-		NSLog(@"%@ / %@", aluno.nome, aluno.gender);
-		
-	}
+	loaderzinho.frame = CGRectMake(100, 100, loaderzinho.frame.size.width, loaderzinho.frame.size.height);
 	
-	[self dismissModalViewControllerAnimated:YES];
+	//[self.view addSubview:loaderzinho];
+	
+	fundoCinza = [[UIView alloc] initWithFrame:CGRectMake(0, 0, currentFrame.size.width, currentFrame.size.height)];
+	[fundoCinza setBackgroundColor:[UIColor grayColor]];
+	[fundoCinza setAlpha:0.6];
+	
+	[self.view addSubview:fundoCinza];
+	
+	[loaderzinho startAnimating];
+	[fundoCinza addSubview:loaderzinho];
+	
+	NSLog(@"teste feito");
+	
+	[NSThread detachNewThreadSelector:@selector(abreLoader:) toTarget:self withObject:retorno];
+	[NSThread detachNewThreadSelector:@selector(enviar) toTarget:self withObject:nil];
 	
 //
 //	NSLog(@"Clicou %@", [self fale:txtNome.text]); 
