@@ -276,9 +276,8 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>3</integer>
-									<integer>1</integer>
-									<integer>0</integer>
+									<integer>36</integer>
+									<integer>35</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
@@ -317,7 +316,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>C283A4071226AAEC00672A58</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>Tela.m</string>
+								<string>Untitled2ViewController.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -325,23 +324,23 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>C283A4081226AAEC00672A58</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>Tela.m</string>
+										<string>Untitled2ViewController.m</string>
 										<key>_historyCapacity</key>
 										<integer>10</integer>
 										<key>bookmark</key>
-										<string>C2B9AE711227F4FB0026C6AA</string>
+										<string>C2B9AF4D12281D240026C6AA</string>
 										<key>history</key>
 										<array>
 											<string>C2B9ADDD1227EAFC0026C6AA</string>
 											<string>C2B9ADDE1227EAFC0026C6AA</string>
-											<string>C2B9ADDF1227EAFC0026C6AA</string>
 											<string>C2B9ADE01227EAFC0026C6AA</string>
 											<string>C2B9ADE11227EAFC0026C6AA</string>
 											<string>C2B9AE451227F26D0026C6AA</string>
-											<string>C2B9ADE21227EAFC0026C6AA</string>
-											<string>C2B9ADF11227EBAF0026C6AA</string>
 											<string>C2B9ADF21227EBAF0026C6AA</string>
-											<string>C2B9AE6B1227F4C70026C6AA</string>
+											<string>C2B9AE951227F8B30026C6AA</string>
+											<string>C2B9AEC21227FB210026C6AA</string>
+											<string>C2B9AF3C122808210026C6AA</string>
+											<string>C2B9AF3D122808210026C6AA</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -381,6 +380,8 @@
 									<dict>
 										<key>Frame</key>
 										<string>{{10, 27}, {842, 218}}</string>
+										<key>RubberWindowFrame</key>
+										<string>1680 241 1152 809 1680 186 1152 864 </string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -435,8 +436,6 @@
 									<dict>
 										<key>Frame</key>
 										<string>{{10, 27}, {842, 218}}</string>
-										<key>RubberWindowFrame</key>
-										<string>1680 241 1152 809 1680 186 1152 864 </string>
 									</dict>
 									<key>Module</key>
 									<string>PBXBuildResultsModule</string>
@@ -658,6 +657,8 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>C2B9AF1D122805C70026C6AA</string>
+		<string>C2B9AF1E122805C70026C6AA</string>
 		<string>/Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2.xcodeproj</string>
 	</array>
 	<key>WindowString</key>

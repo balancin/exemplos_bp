@@ -24,6 +24,9 @@
 		C283A779122708D500672A58 /* NavegacaoController.m in Sources */ = {isa = PBXBuildFile; fileRef = C283A778122708D500672A58 /* NavegacaoController.m */; };
 		C283A79E12270CEC00672A58 /* TabelaDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C283A79D12270CEC00672A58 /* TabelaDelegate.m */; };
 		C283A7E1122711E400672A58 /* lindsaylohan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C283A7E0122711E400672A58 /* lindsaylohan.jpg */; };
+		C2B9AF241228061B0026C6AA /* White_Flag.m4v in Resources */ = {isa = PBXBuildFile; fileRef = C2B9AF231228061B0026C6AA /* White_Flag.m4v */; };
+		C2B9AF26122806490026C6AA /* lego.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = C2B9AF25122806490026C6AA /* lego.mp4 */; };
+		C2B9AF2B122807580026C6AA /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C2B9AF2A122807580026C6AA /* MediaPlayer.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,6 +58,9 @@
 		C283A79C12270CEC00672A58 /* TabelaDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TabelaDelegate.h; sourceTree = "<group>"; };
 		C283A79D12270CEC00672A58 /* TabelaDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TabelaDelegate.m; sourceTree = "<group>"; };
 		C283A7E0122711E400672A58 /* lindsaylohan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lindsaylohan.jpg; sourceTree = "<group>"; };
+		C2B9AF231228061B0026C6AA /* White_Flag.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = White_Flag.m4v; sourceTree = "<group>"; };
+		C2B9AF25122806490026C6AA /* lego.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = lego.mp4; sourceTree = "<group>"; };
+		C2B9AF2A122807580026C6AA /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +71,7 @@
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+				C2B9AF2B122807580026C6AA /* MediaPlayer.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -111,6 +118,7 @@
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
+				C2B9AF2A122807580026C6AA /* MediaPlayer.framework */,
 			);
 			name = CustomTemplate;
 			sourceTree = "<group>";
@@ -129,6 +137,8 @@
 			children = (
 				C283A7E0122711E400672A58 /* lindsaylohan.jpg */,
 				2899E5210DE3E06400AC0155 /* Untitled2ViewController.xib */,
+				C2B9AF231228061B0026C6AA /* White_Flag.m4v */,
+				C2B9AF25122806490026C6AA /* lego.mp4 */,
 				C283A5AF1226E46000672A58 /* dici.plist */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* Untitled2-Info.plist */,
@@ -193,6 +203,8 @@
 				C283A4391226AE5D00672A58 /* Tela.xib in Resources */,
 				C283A5B01226E46000672A58 /* dici.plist in Resources */,
 				C283A7E1122711E400672A58 /* lindsaylohan.jpg in Resources */,
+				C2B9AF241228061B0026C6AA /* White_Flag.m4v in Resources */,
+				C2B9AF26122806490026C6AA /* lego.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

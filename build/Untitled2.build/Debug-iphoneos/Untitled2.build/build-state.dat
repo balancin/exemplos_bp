@@ -1,23 +1,38 @@
 TUntitled2
 v7
 r0
-t304524173.988355
+t304613350.838240
 cCheck dependencies
 cCpResource build/Debug-iphoneos/Untitled2.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
 cProcessInfoPlistFile /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Info.plist Untitled2-Info.plist
 cCompileXIB /Users/fabiobalancin/Documents/iPhone/Untitled2/MainWindow.xib
 cCompileXIB /Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2ViewController.xib
+cCompileXIB /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.xib
+cCopyPlistFile /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/dici.plist dici.plist
+cCpResource build/Debug-iphoneos/Untitled2.app/lindsaylohan.jpg lindsaylohan.jpg
+cCpResource build/Debug-iphoneos/Untitled2.app/White_Flag.m4v White_Flag.m4v
+cCpResource build/Debug-iphoneos/Untitled2.app/lego.mp4 lego.mp4
 cProcessPCH /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bilhzlpeqvpziyarnkdlhwladrtb/Untitled2_Prefix.pch.gch Untitled2_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
 cProcessPCH /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bmebqcshfahkbuhidjbidawjzlue/Untitled2_Prefix.pch.gch Untitled2_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/main.o /Users/fabiobalancin/Documents/iPhone/Untitled2/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2AppDelegate.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2ViewController.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Teste.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Teste.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Tela.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/TesteParser.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Aluno.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Aluno.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/NavegacaoController.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/TabelaDelegate.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TabelaDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
 cLd /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2 normal armv6
 cCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/main.o /Users/fabiobalancin/Documents/iPhone/Untitled2/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2AppDelegate.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2ViewController.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Teste.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Teste.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Tela.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/TesteParser.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Aluno.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Aluno.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/NavegacaoController.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/TabelaDelegate.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TabelaDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
 cLd /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2 normal armv7
 cCreateUniversalBinary /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Untitled2 normal "armv6 armv7"
 cGenerateDSYMFile /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app.dSYM /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Untitled2
@@ -56,6 +71,16 @@ c000000004BFE07B10000000000001466
 t1274939313
 s5222
 
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004C0480DE0000000000000268
+t1275363550
+s616
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004C04812E0000000000252100
+t1275363630
+s2433280
+
 N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
 c000000004C296E2A00000000000009CD
 t1277783594
@@ -65,6 +90,64 @@ N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Li
 c000000004C296F120000000002D563E0
 t1277783826
 s47539168
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Aluno.h
+c000000004C76B774000000000000014C
+t1282848628
+s332
+i<Foundation/Foundation.h>
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Aluno.m
+c000000004C76B77E00000000000000C9
+t1282848638
+s201
+i"Aluno.h"
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.h
+c000000004C77B2AF0000000000000146
+t1282912943
+s326
+i<UIKit/UIKit.h>
+i"TesteParser.h"
+i"TabelaDelegate.h"
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m
+c000000004C76DCDF0000000000000D39
+t1282858207
+s3385
+i"NavegacaoController.h"
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TabelaDelegate.h
+c000000004C76DD350000000000000166
+t1282858293
+s358
+i<UIKit/UIKit.h>
+i"Tela.h"
+i"Aluno.h"
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TabelaDelegate.m
+c000000004C76DDB100000000000013C1
+t1282858417
+s5057
+i"TabelaDelegate.h"
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.h
+c000000004C77BABB00000000000001E3
+t1282915003
+s483
+i<UIKit/UIKit.h>
+i"TesteParser.h"
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m
+c000000004C77BFD40000000000001C86
+t1282916308
+s7302
+i"Tela.h"
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.xib
+c000000004C767D4F0000000000005646
+t1282833743
+s22086
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Teste.h
 c000000004C7671BF00000000000000D0
@@ -78,40 +161,62 @@ t1282831128
 s571
 i"Teste.h"
 
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.h
+c000000004C76B9420000000000000189
+t1282849090
+s393
+i<Foundation/Foundation.h>
+i"Aluno.h"
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m
+c000000004C76C0A20000000000000668
+t1282850978
+s1640
+i"TesteParser.h"
+
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.h
-c000000004C76706B00000000000001E2
-t1282830443
-s482
+c000000004C7679650000000000000205
+t1282832741
+s517
 i<UIKit/UIKit.h>
+i"Teste.h"
+i"Tela.h"
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m
-c000000004C76706B0000000000000A8C
-t1282830443
-s2700
+c000000004C76C3A20000000000000C23
+t1282851746
+s3107
 i"Untitled2AppDelegate.h"
 i"Untitled2ViewController.h"
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.h
-c000000004C76706B00000000000000EB
-t1282830443
-s235
+c000000004C77CFEA000000000000015F
+t1282920426
+s351
+i"NavegacaoController.h"
 i<UIKit/UIKit.h>
+i<MediaPlayer/MediaPlayer.h>
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m
-c000000004C76736100000000000005C5
-t1282831201
-s1477
+c000000004C77D0630000000000001559
+t1282920547
+s5465
 i"Untitled2ViewController.h"
 
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/LEGO Harry Potter - Review.mp4
+c000000004C2D57F300000000029A2AC4
+t1278040051
+s43657924
+
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/MainWindow.xib
-c000000004C76706B0000000000004E41
-t1282830443
-s20033
+c000000004C7679BE0000000000004DEA
+t1282832830
+s19946
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2ViewController.xib
-c000000004C76706B0000000000001A4D
-t1282830443
-s6733
+c000000004C7679D50000000000003983
+t1282832853
+s14723
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2_Prefix.pch
 c000000004C76706B00000000000000BB
@@ -120,95 +225,188 @@ s187
 i<Foundation/Foundation.h>
 i<UIKit/UIKit.h>
 
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/White Flag.m4v
+c000000004A49428C0000000002B881B0
+t1246315148
+s45646256
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/White_Flag.m4v
+c000000004A49428C0000000002B881B0
+t1246315148
+s45646256
+
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app
-t1282831358
-s374
+t1282920549
+s544
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app.dSYM
-t1282831202
+t1282920548
 s102
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Info.plist
-t1282831151
-s734
+t1282919512
+s721
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/LEGO Harry Potter - Review.mp4
+t2
+s0
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/MainWindow.nib
-t1282831151
+t1282919516
 s1127
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/PkgInfo
-t1282831151
+t1282919512
 s8
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/ResourceRules.plist
 t1282831151
 s485
 
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Tela.nib
+t1282919517
+s1997
+
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Untitled2
-t1282831202
-s52832
+t1282920548
+s118544
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Untitled2ViewController.nib
-t1282831151
+t1282919516
 s795
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/White Flag.m4v
+t2
+s0
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/White_Flag.m4v
+t1282920441
+s45646256
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/dici.plist
+t1282919517
+s58
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/embedded.mobileprovision
 t1282831153
 s7842
 
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/lego.mp4
+t1282920441
+s43657924
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/lindsaylohan.jpg
+t1282919518
+s57215
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Aluno.o
+t1282919520
+s7840
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/NavegacaoController.o
+t1282919520
+s46380
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/TabelaDelegate.o
+t1282919520
+s46796
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Tela.o
+t1282919520
+s54292
+
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Teste.o
 t1282831153
 s34340
 
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/TesteParser.o
+t1282919520
+s13812
+
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2
-t1282831202
-s18248
+t1282920548
+s51196
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2.LinkFileList
-c000000004C76732F0000000000000228
-t1282831151
-s552
+c000000004C77CC5800000000000004CE
+t1282919512
+s1230
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2AppDelegate.o
-t1282831152
-s47236
+t1282920442
+s50276
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2ViewController.o
-t1282831202
-s35128
+t1282920548
+s53980
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/main.o
 t1282831152
 s6456
 
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Aluno.o
+t1282919522
+s7800
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/NavegacaoController.o
+t1282919522
+s45916
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/TabelaDelegate.o
+t1282919522
+s46676
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Tela.o
+t1282919522
+s53748
+
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Teste.o
 t1282831153
 s34312
 
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/TesteParser.o
+t1282919522
+s13644
+
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2
-t1282831202
-s18248
+t1282920548
+s51028
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2.LinkFileList
-c000000004C76732F0000000000000228
-t1282831151
-s552
+c000000004C77CC5800000000000004CE
+t1282919512
+s1230
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2AppDelegate.o
-t1282831153
-s47152
+t1282920442
+s50160
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2ViewController.o
-t1282831202
-s35092
+t1282920548
+s53428
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/main.o
 t1282831153
 s6440
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2.xcent
-t1282831153
+t1282919522
 s424
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/dici.plist
+c000000004C76AA4700000000000000E8
+t1282845255
+s232
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/lego.mp4
+c000000004C2D57F300000000029A2AC4
+t1278040051
+s43657924
+
+N/Users/fabiobalancin/Documents/iPhone/Untitled2/lindsaylohan.jpg
+c000000004C76CE54000000000000DF7F
+t1282854484
+s57215
 
 N/Users/fabiobalancin/Documents/iPhone/Untitled2/main.m
 c000000004C76706B0000000000000162
@@ -230,22 +428,78 @@ t1282831152
 s10290736
 
 NUntitled2-Info.plist
-c000000004C76706B000000000000038D
-t1282830443
-s909
+c000000004C76AA43000000000000037F
+t1282845251
+s895
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies304524173#304524173#0(0"0(0#1#0"8625662720#0"0#
+lSLF07#2@18"Check dependencies304613350#304613350#0(0"0(0#1#0"8638409120#0"0#
 
 CCodeSign /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app
-s304524157.707547
-e304524158.370424
+s304613348.319259
+e304613349.036932
 r1
 xCodeSign
 x/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app
-o/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app: replacing existing signature
-lSLF07#2@43"CodeSign build/Debug-iphoneos/Untitled2.app304524157#304524158#0(113"/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app: replacing existing signature0(0#0#82"/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app8631389536#758"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Fabio Balancin (3G649Y2ZVS)" --resource-rules=/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/ResourceRules.plist --entitlements /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2.xcent /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app0#
+lSLF07#2@43"CodeSign build/Debug-iphoneos/Untitled2.app304613348#304613349#0(0"0(0#0#82"/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app8636483136#758"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Fabio Balancin (3G649Y2ZVS)" --resource-rules=/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/ResourceRules.plist --entitlements /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2.xcent /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app0#
+
+CCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Aluno.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Aluno.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304612320.596652
+e304612320.674202
+r1
+xCompileC
+xbuild/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Aluno.o
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Aluno.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Aluno.m304612320#304612320#0(0"0(0#0#63"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Aluno.m8628417760#1935"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources/armv6 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bilhzlpeqvpziyarnkdlhwladrtb/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Aluno.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Aluno.o0#
+
+CCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/NavegacaoController.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304612320.598218
+e304612320.678877
+r1
+xCompileC
+xbuild/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/NavegacaoController.o
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m: In function '-[NavegacaoController viewDidLoad]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m:46: warning: unused variable 'retorno'
+lSLF07#2@85"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m304612320#304612320#0(246"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m: In function '-[NavegacaoController viewDidLoad]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m:46: warning: unused variable 'retorno'1(22@25"Unused variable 'retorno'304612320#129#117#0(6@77"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m304551007#46#0#46#0#19"unused variable '*'0(0#0#77"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m8667803872#1963"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources/armv6 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bilhzlpeqvpziyarnkdlhwladrtb/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/NavegacaoController.o0#
+
+CCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/TabelaDelegate.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TabelaDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304612320.674309
+e304612320.765147
+r1
+xCompileC
+xbuild/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/TabelaDelegate.o
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TabelaDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TabelaDelegate.m304612320#304612320#0(0"0(0#0#72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TabelaDelegate.m8641792544#1953"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources/armv6 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bilhzlpeqvpziyarnkdlhwladrtb/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TabelaDelegate.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/TabelaDelegate.o0#
+
+CCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Tela.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304612320.449885
+e304612320.598144
+r1
+xCompileC
+xbuild/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Tela.o
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m: In function '-[Tela viewDidLoad]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m:60: warning: unused variable 'inteiro1'
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m:53: warning: unused variable 'dicionario'
+lSLF07#2@70"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m304612320#304612320#0(307"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m: In function '-[Tela viewDidLoad]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m:60: warning: unused variable 'inteiro1'/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m:53: warning: unused variable 'dicionario'2(22@26"Unused variable 'inteiro1'304612320#99#103#0(6@62"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m304609108#60#0#60#0#19"unused variable '*'0(22@28"Unused variable 'dicionario'304612320#202#105#0(6@62"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m304609108#53#0#53#0#19"unused variable '*'0(0#0#62"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m8647182336#1933"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources/armv6 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bilhzlpeqvpziyarnkdlhwladrtb/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Tela.o0#
 
 CCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Teste.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Teste.m normal armv6 objective-c com.apple.compilers.gcc.4_2
 s304523952.950283
@@ -260,9 +514,24 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@71"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Teste.m304523952#304523953#0(0"0(0#0#63"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Teste.m8630637920#1935"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources/armv6 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bilhzlpeqvpziyarnkdlhwladrtb/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Teste.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Teste.o0#
 
+CCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/TesteParser.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304612320.451014
+e304612320.596499
+r1
+xCompileC
+xbuild/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/TesteParser.o
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m: In function '-[TesteParser initWithParser:]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m:22: warning: class 'TesteParser' does not implement the 'NSXMLParserDelegate' protocol
+lSLF07#2@77"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m304612320#304612320#0(274"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m: In function '-[TesteParser initWithParser:]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m:22: warning: class 'TesteParser' does not implement the 'NSXMLParserDelegate' protocol1(22@73"Class 'TesteParser' does not implement the 'NSXMLParserDelegate' protocol304612320#117#157#0(6@69"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m304543778#22#0#22#0#45"class '*' does not implement the '*' protocol0(0#0#69"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m8637084096#1947"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources/armv6 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bilhzlpeqvpziyarnkdlhwladrtb/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/TesteParser.o0#
+
 CCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2AppDelegate.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s304523952.814793
-e304523952.950198
+s304613242.102796
+e304613242.414041
 r1
 xCompileC
 xbuild/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2AppDelegate.o
@@ -271,11 +540,13 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@86"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m304523952#304523952#0(0"0(0#0#78"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m8625694944#1965"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources/armv6 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bilhzlpeqvpziyarnkdlhwladrtb/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2AppDelegate.o0#
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m: In function '-[Untitled2AppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m:29: warning: unused variable 'viewControllerTeste'
+lSLF07#2@86"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m304613242#304613242#0(292"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m: In function '-[Untitled2AppDelegate application:didFinishLaunchingWithOptions:]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m:29: warning: unused variable 'viewControllerTeste'1(22@37"Unused variable 'viewControllerTeste'304613242#162#130#0(6@78"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m304544546#29#0#29#0#19"unused variable '*'0(0#0#78"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m8676423360#1965"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources/armv6 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bilhzlpeqvpziyarnkdlhwladrtb/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2AppDelegate.o0#
 
 CCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2ViewController.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s304524002.637697
-e304524002.762488
+s304613348.043825
+e304613348.233153
 r1
 xCompileC
 xbuild/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2ViewController.o
@@ -284,7 +555,15 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@89"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m304524002#304524002#0(0"0(0#0#81"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m8630009312#1971"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources/armv6 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bilhzlpeqvpziyarnkdlhwladrtb/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2ViewController.o0#
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m: In function '-[Untitled2ViewController viewDidLoad]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:45: warning: 'setMovieControlMode:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MPMoviePlayerController.h:323)
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:53: warning: class 'Untitled2ViewController' does not implement the 'UIAccelerometerDelegate' protocol
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m: In function '-[Untitled2ViewController touchesBegan:withEvent:]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:88: warning: unused variable 'touch'
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m: In function '-[Untitled2ViewController touchesMoved:withEvent:]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:96: warning: unused variable 'point'
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:95: warning: unused variable 'touch'
+lSLF07#2@89"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m304613348#304613348#0(1279"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m: In function '-[Untitled2ViewController viewDidLoad]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:45: warning: 'setMovieControlMode:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MPMoviePlayerController.h:323)/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:53: warning: class 'Untitled2ViewController' does not implement the 'UIAccelerometerDelegate' protocol/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m: In function '-[Untitled2ViewController touchesBegan:withEvent:]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:88: warning: unused variable 'touch'/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m: In function '-[Untitled2ViewController touchesMoved:withEvent:]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:96: warning: unused variable 'point'/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:95: warning: unused variable 'touch'5(22@206"'setMovieControlMode:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MPMoviePlayerController.h:323)304613348#137#302#0(6@81"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m304613347#45#0#45#0#33"'*' is deprecated (declared at *)0(22@89"Class 'Untitled2ViewController' does not implement the 'UIAccelerometerDelegate' protocol304613348#439#185#0(6@81"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m304613347#53#0#53#0#45"class '*' does not implement the '*' protocol0(22@23"Unused variable 'touch'304613348#773#119#0(6@81"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m304613347#88#0#88#0#19"unused variable '*'0(22@23"Unused variable 'point'304613348#1041#119#0(6@81"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m304613347#96#0#96#0#19"unused variable '*'0(22@23"Unused variable 'touch'304613348#1160#119#0(6@81"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m304613347#95#0#95#0#19"unused variable '*'0(0#0#81"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m8618124384#1971"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources/armv6 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bilhzlpeqvpziyarnkdlhwladrtb/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2ViewController.o0#
 
 CCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/main.o /Users/fabiobalancin/Documents/iPhone/Untitled2/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
 s304523952.813839
@@ -299,6 +578,63 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@62"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/main.m304523952#304523952#0(0"0(0#0#54"/Users/fabiobalancin/Documents/iPhone/Untitled2/main.m8630216768#1925"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources/armv6 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bilhzlpeqvpziyarnkdlhwladrtb/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/main.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/main.o0#
 
+CCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Aluno.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Aluno.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304612322.180118
+e304612322.246196
+r1
+xCompileC
+xbuild/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Aluno.o
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Aluno.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Aluno.m304612322#304612322#0(0"0(0#0#63"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Aluno.m8663187904#1935"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources/armv7 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bmebqcshfahkbuhidjbidawjzlue/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Aluno.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Aluno.o0#
+
+CCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/NavegacaoController.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304612322.211879
+e304612322.318473
+r1
+xCompileC
+xbuild/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/NavegacaoController.o
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m: In function '-[NavegacaoController viewDidLoad]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m:46: warning: unused variable 'retorno'
+lSLF07#2@85"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m304612322#304612322#0(246"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m: In function '-[NavegacaoController viewDidLoad]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m:46: warning: unused variable 'retorno'1(22@25"Unused variable 'retorno'304612322#129#117#0(6@77"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m304551007#46#0#46#0#19"unused variable '*'0(0#0#77"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m8662253440#1963"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources/armv7 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bmebqcshfahkbuhidjbidawjzlue/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/NavegacaoController.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/NavegacaoController.o0#
+
+CCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/TabelaDelegate.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TabelaDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304612322.246285
+e304612322.338314
+r1
+xCompileC
+xbuild/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/TabelaDelegate.o
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TabelaDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TabelaDelegate.m304612322#304612322#0(0"0(0#0#72"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TabelaDelegate.m8639172960#1953"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources/armv7 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bmebqcshfahkbuhidjbidawjzlue/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TabelaDelegate.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/TabelaDelegate.o0#
+
+CCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Tela.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304612322.052029
+e304612322.211768
+r1
+xCompileC
+xbuild/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Tela.o
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m: In function '-[Tela viewDidLoad]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m:60: warning: unused variable 'inteiro1'
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m:53: warning: unused variable 'dicionario'
+lSLF07#2@70"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m304612322#304612322#0(307"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m: In function '-[Tela viewDidLoad]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m:60: warning: unused variable 'inteiro1'/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m:53: warning: unused variable 'dicionario'2(22@26"Unused variable 'inteiro1'304612322#99#103#0(6@62"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m304609108#60#0#60#0#19"unused variable '*'0(22@28"Unused variable 'dicionario'304612322#202#105#0(6@62"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m304609108#53#0#53#0#19"unused variable '*'0(0#0#62"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m8627409440#1933"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources/armv7 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bmebqcshfahkbuhidjbidawjzlue/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Tela.o0#
+
 CCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Teste.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Teste.m normal armv7 objective-c com.apple.compilers.gcc.4_2
 s304523953.247875
 e304523953.341234
@@ -312,9 +648,24 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@71"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Teste.m304523953#304523953#0(0"0(0#0#63"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Teste.m8623839968#1935"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources/armv7 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bmebqcshfahkbuhidjbidawjzlue/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Teste.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Teste.o0#
 
+CCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/TesteParser.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304612322.098877
+e304612322.179999
+r1
+xCompileC
+xbuild/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/TesteParser.o
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m: In function '-[TesteParser initWithParser:]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m:22: warning: class 'TesteParser' does not implement the 'NSXMLParserDelegate' protocol
+lSLF07#2@77"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m304612322#304612322#0(274"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m: In function '-[TesteParser initWithParser:]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m:22: warning: class 'TesteParser' does not implement the 'NSXMLParserDelegate' protocol1(22@73"Class 'TesteParser' does not implement the 'NSXMLParserDelegate' protocol304612322#117#157#0(6@69"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m304543778#22#0#22#0#45"class '*' does not implement the '*' protocol0(0#0#69"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m8630421664#1947"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources/armv7 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bmebqcshfahkbuhidjbidawjzlue/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/TesteParser.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/TesteParser.o0#
+
 CCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2AppDelegate.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-s304523953.135442
-e304523953.247785
+s304613242.390004
+e304613242.487887
 r1
 xCompileC
 xbuild/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2AppDelegate.o
@@ -323,11 +674,13 @@ xnormal
 xarmv7
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@86"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m304523953#304523953#0(0"0(0#0#78"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m8630193888#1965"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources/armv7 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bmebqcshfahkbuhidjbidawjzlue/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2AppDelegate.o0#
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m: In function '-[Untitled2AppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m:29: warning: unused variable 'viewControllerTeste'
+lSLF07#2@86"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m304613242#304613242#0(292"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m: In function '-[Untitled2AppDelegate application:didFinishLaunchingWithOptions:]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m:29: warning: unused variable 'viewControllerTeste'1(22@37"Unused variable 'viewControllerTeste'304613242#162#130#0(6@78"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m304544546#29#0#29#0#19"unused variable '*'0(0#0#78"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m8665365248#1965"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources/armv7 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bmebqcshfahkbuhidjbidawjzlue/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2AppDelegate.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2AppDelegate.o0#
 
 CCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2ViewController.o /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-s304524002.688602
-e304524002.764188
+s304613348.096623
+e304613348.224420
 r1
 xCompileC
 xbuild/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2ViewController.o
@@ -336,7 +689,15 @@ xnormal
 xarmv7
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@89"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m304524002#304524002#0(0"0(0#0#81"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m8622934208#1971"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources/armv7 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bmebqcshfahkbuhidjbidawjzlue/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2ViewController.o0#
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m: In function '-[Untitled2ViewController viewDidLoad]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:45: warning: 'setMovieControlMode:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MPMoviePlayerController.h:323)
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:53: warning: class 'Untitled2ViewController' does not implement the 'UIAccelerometerDelegate' protocol
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m: In function '-[Untitled2ViewController touchesBegan:withEvent:]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:88: warning: unused variable 'touch'
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m: In function '-[Untitled2ViewController touchesMoved:withEvent:]':
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:96: warning: unused variable 'point'
+o/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:95: warning: unused variable 'touch'
+lSLF07#2@89"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m304613348#304613348#0(1279"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m: In function '-[Untitled2ViewController viewDidLoad]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:45: warning: 'setMovieControlMode:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MPMoviePlayerController.h:323)/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:53: warning: class 'Untitled2ViewController' does not implement the 'UIAccelerometerDelegate' protocol/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m: In function '-[Untitled2ViewController touchesBegan:withEvent:]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:88: warning: unused variable 'touch'/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m: In function '-[Untitled2ViewController touchesMoved:withEvent:]':/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:96: warning: unused variable 'point'/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:95: warning: unused variable 'touch'5(22@206"'setMovieControlMode:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MPMoviePlayerController.h:323)304613348#137#302#0(6@81"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m304613347#45#0#45#0#33"'*' is deprecated (declared at *)0(22@89"Class 'Untitled2ViewController' does not implement the 'UIAccelerometerDelegate' protocol304613348#439#185#0(6@81"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m304613347#53#0#53#0#45"class '*' does not implement the '*' protocol0(22@23"Unused variable 'touch'304613348#773#119#0(6@81"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m304613347#88#0#88#0#19"unused variable '*'0(22@23"Unused variable 'point'304613348#1041#119#0(6@81"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m304613347#96#0#96#0#19"unused variable '*'0(22@23"Unused variable 'touch'304613348#1160#119#0(6@81"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m304613347#95#0#95#0#19"unused variable '*'0(0#0#81"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m8637821664#1971"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources/armv7 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bmebqcshfahkbuhidjbidawjzlue/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2ViewController.o0#
 
 CCompileC build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/main.o /Users/fabiobalancin/Documents/iPhone/Untitled2/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
 s304523953.041749
@@ -351,23 +712,44 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@62"Compile /Users/fabiobalancin/Documents/iPhone/Untitled2/main.m304523953#304523953#0(0"0(0#0#54"/Users/fabiobalancin/Documents/iPhone/Untitled2/main.m8631992800#1925"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-generated-files.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-own-target-headers.hmap -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-all-target-headers.hmap -iquote /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2-project-headers.hmap -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/include -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources/armv7 -I/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/DerivedSources -include /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bmebqcshfahkbuhidjbidawjzlue/Untitled2_Prefix.pch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/main.m -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/main.o0#
 
+CCompileXIB /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.xib
+s304612316.027618
+e304612318.118361
+r1
+xCompileXIB
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.xib
+lSLF07#2@27"CompileXIB Classes/Tela.xib304612316#304612318#0(0"0(0#0#64"/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.xib8670007808#629"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Tela.nib /Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Tela.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
 CCompileXIB /Users/fabiobalancin/Documents/iPhone/Untitled2/MainWindow.xib
-s304523951.262425
-e304523951.709607
+s304612312.505117
+e304612316.035589
 r1
 xCompileXIB
 x/Users/fabiobalancin/Documents/iPhone/Untitled2/MainWindow.xib
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-lSLF07#2@25"CompileXIB MainWindow.xib304523951#304523951#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#62"/Users/fabiobalancin/Documents/iPhone/Untitled2/MainWindow.xib8632123136#633"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/MainWindow.nib /Users/fabiobalancin/Documents/iPhone/Untitled2/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+lSLF07#2@25"CompileXIB MainWindow.xib304612312#304612316#0(0"0(0#0#62"/Users/fabiobalancin/Documents/iPhone/Untitled2/MainWindow.xib8636018720#633"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/MainWindow.nib /Users/fabiobalancin/Documents/iPhone/Untitled2/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
 
 CCompileXIB /Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2ViewController.xib
-s304523951.263031
-e304523951.688238
+s304612312.506164
+e304612316.027446
 r1
 xCompileXIB
 x/Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2ViewController.xib
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-lSLF07#2@38"CompileXIB Untitled2ViewController.xib304523951#304523951#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#75"/Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2ViewController.xib8630290400#659"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Untitled2ViewController.nib /Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2ViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+lSLF07#2@38"CompileXIB Untitled2ViewController.xib304612312#304612316#0(0"0(0#0#75"/Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2ViewController.xib8666459936#659"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Untitled2ViewController.nib /Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2ViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCopyPlistFile /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/dici.plist dici.plist
+s304612316.035688
+e304612317.143704
+r1
+xCopyPlistFile
+x/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/dici.plist
+xdici.plist
+lSLF07#2@15"Copy dici.plist304612316#304612317#0(0"0(0#0#58"/Users/fabiobalancin/Documents/iPhone/Untitled2/dici.plist8662261888#453"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 dici.plist --outdir /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app0#
+
+CCpResource "build/Debug-iphoneos/Untitled2.app/LEGO Harry Potter - Review.mp4" "LEGO Harry Potter - Review.mp4"
+r0
+
+CCpResource "build/Debug-iphoneos/Untitled2.app/White Flag.m4v" "White Flag.m4v"
+r0
 
 CCpResource build/Debug-iphoneos/Untitled2.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
 s304523951.253901
@@ -378,53 +760,80 @@ xbuild/Debug-iphoneos/Untitled2.app/ResourceRules.plist
 x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
 lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist304523951#304523951#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist8620023424#562"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app0#
 
+CCpResource build/Debug-iphoneos/Untitled2.app/White_Flag.m4v White_Flag.m4v
+s304613237.632769
+e304613242.102315
+r1
+xCpResource
+xbuild/Debug-iphoneos/Untitled2.app/White_Flag.m4v
+xWhite_Flag.m4v
+lSLF07#2@19"Copy White_Flag.m4v304613237#304613242#0(0"0(0#0#62"/Users/fabiobalancin/Documents/iPhone/Untitled2/White_Flag.m4v8672218848#535"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/fabiobalancin/Documents/iPhone/Untitled2/White_Flag.m4v /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app0#
+
+CCpResource build/Debug-iphoneos/Untitled2.app/lego.mp4 lego.mp4
+s304613237.633809
+e304613241.382956
+r1
+xCpResource
+xbuild/Debug-iphoneos/Untitled2.app/lego.mp4
+xlego.mp4
+lSLF07#2@13"Copy lego.mp4304613237#304613241#0(0"0(0#0#56"/Users/fabiobalancin/Documents/iPhone/Untitled2/lego.mp48669288544#529"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/fabiobalancin/Documents/iPhone/Untitled2/lego.mp4 /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app0#
+
+CCpResource build/Debug-iphoneos/Untitled2.app/lindsaylohan.jpg lindsaylohan.jpg
+s304612317.143856
+e304612318.100604
+r1
+xCpResource
+xbuild/Debug-iphoneos/Untitled2.app/lindsaylohan.jpg
+xlindsaylohan.jpg
+lSLF07#2@21"Copy lindsaylohan.jpg304612317#304612318#0(0"0(0#0#64"/Users/fabiobalancin/Documents/iPhone/Untitled2/lindsaylohan.jpg8647181568#537"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/fabiobalancin/Documents/iPhone/Untitled2/lindsaylohan.jpg /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app0#
+
 CCreateUniversalBinary /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Untitled2 normal "armv6 armv7"
-s304524002.794460
-e304524002.807716
+s304613348.266573
+e304613348.269644
 r1
 xCreateUniversalBinary
 x/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Untitled2
 xnormal
 xarmv6 armv7
-lSLF07#2@87"CreateUniversalBinary build/Debug-iphoneos/Untitled2.app/Untitled2 normal "armv6 armv7"304524002#304524002#0(0"0(0#0#59"/Users/fabiobalancin/Documents/iPhone/Untitled2/armv6 armv78631736928#632"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/lipo -create /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2 /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2 -output /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Untitled20#
+lSLF07#2@87"CreateUniversalBinary build/Debug-iphoneos/Untitled2.app/Untitled2 normal "armv6 armv7"304613348#304613348#0(0"0(0#0#59"/Users/fabiobalancin/Documents/iPhone/Untitled2/armv6 armv78669803392#632"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/lipo -create /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2 /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2 -output /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Untitled20#
 
 CGenerateDSYMFile /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app.dSYM /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Untitled2
-s304524002.807802
-e304524002.837113
+s304613348.269716
+e304613348.314663
 r1
 xGenerateDSYMFile
 x/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app.dSYM
 x/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Untitled2
-lSLF07#2@101"GenerateDSYMFile build/Debug-iphoneos/Untitled2.app.dSYM build/Debug-iphoneos/Untitled2.app/Untitled2304524002#304524002#0(0"0(0#0#92"/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Untitled28631096704#457"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Untitled2 -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app.dSYM0#
+lSLF07#2@101"GenerateDSYMFile build/Debug-iphoneos/Untitled2.app.dSYM build/Debug-iphoneos/Untitled2.app/Untitled2304613348#304613348#0(0"0(0#0#92"/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Untitled28669194848#457"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Untitled2 -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app.dSYM0#
 
 CLd /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2 normal armv6
-s304524002.762646
-e304524002.792566
+s304613348.233243
+e304613348.266490
 r1
 xLd
 x/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2
 xnormal
 xarmv6
-lSLF07#2@136"Link /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2304524002#304524002#0(0"0(0#0#0"8632053792#978"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -filelist /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled20#
+lSLF07#2@136"Link /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2304613348#304613348#0(0"0(0#0#0"8616103296#1001"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -filelist /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled2.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework MediaPlayer -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv6/Untitled20#
 
 CLd /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2 normal armv7
-s304524002.764336
-e304524002.794386
+s304613348.225090
+e304613348.263427
 r1
 xLd
 x/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2
 xnormal
 xarmv7
-lSLF07#2@136"Link /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2304524002#304524002#0(0"0(0#0#0"8631831936#978"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -filelist /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled20#
+lSLF07#2@136"Link /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2304613348#304613348#0(0"0(0#0#0"8637817408#1001"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -F/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos -filelist /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled2.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework MediaPlayer -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Objects-normal/armv7/Untitled20#
 
 CProcessInfoPlistFile /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Info.plist Untitled2-Info.plist
-s304523951.254629
-e304523951.258333
+s304612312.475755
+e304612312.505014
 r1
 xProcessInfoPlistFile
 x/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Info.plist
 xUntitled2-Info.plist
-lSLF07#2@28"Process Untitled2-Info.plist304523951#304523951#0(0"0(0#0#68"/Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2-Info.plist8630901952#668"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Untitled2-Info.plist -genpkginfo /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/ResourceRules.plist -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Info.plist0#
+lSLF07#2@28"Process Untitled2-Info.plist304612312#304612312#0(0"0(0#0#68"/Users/fabiobalancin/Documents/iPhone/Untitled2/Untitled2-Info.plist19140500286341228#668"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Untitled2-Info.plist -genpkginfo /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/ResourceRules.plist -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/Info.plist0#
 
 CProcessPCH /var/folders/+Q/+Qc54H1oF0C638p0AqayPE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled2_Prefix-bilhzlpeqvpziyarnkdlhwladrtb/Untitled2_Prefix.pch.gch Untitled2_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
 s304523951.709723
@@ -462,19 +871,19 @@ x/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.
 lSLF07#2@202"ProcessProductPackaging "/Users/fabiobalancin/Library/MobileDevice/Provisioning Profiles/C8AD9C00-6FF8-4F05-A15F-71CF51C8F1CD.mobileprovision" build/Debug-iphoneos/Untitled2.app/embedded.mobileprovision304523953#304523953#0(0"0(0#0#107"/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/embedded.mobileprovision8605193248#513"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> "/Users/fabiobalancin/Library/MobileDevice/Provisioning Profiles/C8AD9C00-6FF8-4F05-A15F-71CF51C8F1CD.mobileprovision" -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app/embedded.mobileprovision0#
 
 CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2.xcent
-s304523953.413164
-e304523953.427681
+s304612322.787244
+e304612322.850962
 r1
 xProcessProductPackaging
 x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
 x/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2.xcent
-lSLF07#2@181"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2.xcent304523953#304523953#0(0"0(0#0#116"/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2.xcent8630373600#518"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2.xcent0#
+lSLF07#2@181"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2.xcent304612322#304612322#0(0"0(0#0#116"/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2.xcent8626579712#518"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Untitled2.build/Debug-iphoneos/Untitled2.build/Untitled2.xcent0#
 
 CTouch /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app
-s304524002.837287
-e304524002.839585
+s304613348.314847
+e304613348.318447
 r1
 xTouch
 x/Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app
-lSLF07#2@88"Touch /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app304524002#304524002#0(0"0(0#0#0"8630249344#346"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app0#
+lSLF07#2@88"Touch /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app304613348#304613348#0(0"0(0#0#0"8633348640#346"    cd /Users/fabiobalancin/Documents/iPhone/Untitled2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/fabiobalancin/Documents/iPhone/Untitled2/build/Debug-iphoneos/Untitled2.app0#
 

@@ -1,0 +1,7 @@
+/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m: In function '-[Untitled2ViewController viewDidLoad]':
+/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:57: warning: class 'Untitled2ViewController' does not implement the 'UIAccelerometerDelegate' protocol
+/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m: In function '-[Untitled2ViewController touchesBegan:withEvent:]':
+/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:92: warning: unused variable 'touch'
+/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m: In function '-[Untitled2ViewController touchesMoved:withEvent:]':
+/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:100: warning: unused variable 'point'
+/Users/fabiobalancin/Documents/iPhone/Untitled2/Classes/Untitled2ViewController.m:99: warning: unused variable 'touch'

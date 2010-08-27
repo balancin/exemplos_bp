@@ -97,6 +97,18 @@
 	
 }
 
+- (void) fecha:(id)obj {
+
+	
+	
+}
+
+- (void)animationDidStop:(NSString *)animationID finished:(NSNumber *)finished context:(void *)context {
+	NSLog(@"%@", animationID);
+	NSLog(@"%@", self.navigationController);
+	[self.navigationController popViewControllerAnimated:YES];
+}
+
 - (void) abreLoader:(id)obj {
 	
 	if(retorno != nil){
@@ -104,8 +116,10 @@
 		//[fundoCinza removeFromSuperview];
 		[loaderzinho stopAnimating];
 		
-		[UIView beginAnimations:nil context:NULL];
+		[UIView beginAnimations:@"brancoLargo" context:NULL];
 		[UIView setAnimationDuration:1.0];
+		[UIView setAnimationDelegate:self];
+		[UIView setAnimationDidStopSelector:@selector(animationDidStop:finished:context:)];
 		[fundoCinza setAlpha:0];
 		
 		[UIView commitAnimations];

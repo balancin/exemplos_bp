@@ -8,10 +8,12 @@
 
 #import "NavegacaoController.h"
 #import <UIKit/UIKit.h> 
+#import <MediaPlayer/MediaPlayer.h>
 
 @interface Untitled2ViewController : UIViewController {
 
 	UIButton* abreBt;
+	UIImageView* imagemView;
 	
 }
 
