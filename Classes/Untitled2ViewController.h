@@ -10,7 +10,7 @@
 #import <UIKit/UIKit.h> 
 #import <MediaPlayer/MediaPlayer.h>
 
-@interface Untitled2ViewController : UIViewController {
+@interface Untitled2ViewController : UIViewController <UIImagePickerControllerDelegate> {
 
 	UIButton* abreBt;
 	UIImageView* imagemView;

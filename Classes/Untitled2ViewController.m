@@ -53,8 +53,8 @@
 //	
 	//////////////
 	
-	[[UIAccelerometer sharedAccelerometer] setUpdateInterval:(1/25)];
-	[[UIAccelerometer sharedAccelerometer] setDelegate:self];
+//	[[UIAccelerometer sharedAccelerometer] setUpdateInterval:(1/25)];
+//	[[UIAccelerometer sharedAccelerometer] setDelegate:self];
 	
 	self.view.userInteractionEnabled = YES;
 	self.view.multipleTouchEnabled = YES;
@@ -74,7 +74,7 @@
 	abreBt.frame = CGRectMake((currentFrame.size.width/2)-50,
 							  (currentFrame.size.height/2)-20,100,40);
 	
-	//[self.view addSubview:abreBt];
+	[self.view addSubview:abreBt];
 	
 //	UIImage* imagem = [UIImage imageNamed:@"lindsaylohan.jpg"];
 //	imagemView = [[UIImageView alloc] initWithImage:imagem];
@@ -82,6 +82,34 @@
 //	[self.view addSubview:imagemView];
 	
 	//[self aumenta];
+	
+}
+
+- (void)imagePickerController:(UIImagePickerController *)picker didFinishPickingMediaWithInfo:(NSDictionary *)info {
+	
+	[self dismissModalViewControllerAnimated:YES];
+
+	UIImage* image = [info objectForKey:UIImagePickerControllerOriginalImage];
+	UIImageView* imageView = [[UIImageView alloc] initWithImage:image];
+	imageView.frame = CGRectMake(100, 100, image.size.width, image.size.height);
+	[self.view addSubview:imageView];
+	
+	NSLog(@"%@", [info objectForKey:UIImagePickerControllerOriginalImage]);
+	
+}
+
+- (void)getPhoto {
+
+	UIImagePickerController* imagePicker = [[UIImagePickerController alloc] init];
+	imagePicker.allowsEditing = YES;
+	
+	imagePicker.sourceType = UIImagePickerControllerSourceTypeCamera;
+	
+	imagePicker.mediaTypes = [UIImagePickerController availableMediaTypesForSourceType:UIImagePickerControllerSourceTypeCamera];
+	
+	imagePicker.delegate = self;
+	
+	[self presentModalViewController:imagePicker animated:YES];
 	
 }
 
@@ -140,7 +168,8 @@
 	
 	NSLog(@"Abriu");
 	
-	[self presentModalViewController:[[NavegacaoController alloc] init] animated:YES];
+	//[self presentModalViewController:[[NavegacaoController alloc] init] animated:YES];
+	[self getPhoto];
 	
 }
 
